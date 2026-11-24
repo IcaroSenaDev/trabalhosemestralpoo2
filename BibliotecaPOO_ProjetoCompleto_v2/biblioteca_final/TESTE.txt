@@ -1,0 +1,12 @@
+VALIDAÇÃO DE COMPILAÇÃO E TESTE DE FUNCIONALIDADE
+
+- Compilação dos arquivos src/*.java: OK (javac)
+- Execução do Programa: OK
+- Teste: registrar empréstimo na data 24/11/2026
+- Resultado observado: previsão calculada como 01/12/2026 (7 dias corridos)
+- Listagem: exibe empréstimo, previsão de devolução e situação
+- Teste da tabela com os registros demonstrativos: OK
+
+O teste de console foi executado com codificação padrão do ambiente, que pode
+mostrar acentos incorretos em terminal configurado fora de UTF-8. No Eclipse,
+configure UTF-8 em Preferences/Properties > General > Workspace/Text file encoding.
